@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "820rwIdCQ4B/xd5w3lRT64sJyRM97GrAPCxvYzuIkfDr2sWkEW51ep8zkjw8UiacF92X2AiRshVnar4hh41Xvw==",
+  "success": true,
+  "projectFilePath": "/home/raymond/repos/BreakoutFLECSMG/BreakoutFLECSMG.csproj",
+  "expectedPackageFiles": [
+    "/home/raymond/.nuget/packages/flecs.net.bindings.release/4.0.0/flecs.net.bindings.release.4.0.0.nupkg.sha512",
+    "/home/raymond/.nuget/packages/flecs.net.native.release/4.0.0/flecs.net.native.release.4.0.0.nupkg.sha512",
+    "/home/raymond/.nuget/packages/flecs.net.release/4.0.0/flecs.net.release.4.0.0.nupkg.sha512",
+    "/home/raymond/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/raymond/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/raymond/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/raymond/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
