@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakoutFLECSMG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b7b62d3de70683758f02e7c4903170b1534c61")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakoutFLECSMG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakoutFLECSMG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
